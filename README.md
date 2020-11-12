@@ -1,2 +1,2 @@
 # temp-files
-Just some temp files...will be deleted...nothing usefull
+Just some temp files. Nothing useful. To be deleted.
